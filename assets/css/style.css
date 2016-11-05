@@ -1,0 +1,18 @@
+
+/* Teal color (used for headings and backgrounds): #4aaaa5
+Regular font color (used for paragraphs and all text besides the headings) = #777777
+Main header background color: #ffffff
+Main header border color: #cccccc
+Footer background color: #666666
+Main content background color: #ffffff
+Main content border color: #dddddd 
+*/
+
+
+
+body{
+	padding: 150px
+	background:#ffffff;
+	font-size: 20px
+	
+}
